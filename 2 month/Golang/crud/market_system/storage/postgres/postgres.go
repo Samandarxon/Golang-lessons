@@ -11,9 +11,12 @@ import (
 )
 
 type Store struct {
-	db       *sql.DB
-	category storage.CategoryRepoI
-	product  storage.ProductRepoI
+	db        *sql.DB
+	category  storage.CategoryRepoI
+	product   storage.ProductRepoI
+	remaining storage.RemainingRepoI
+	branch    storage.BranchRepoI
+	coming    storage.ComingRepoI
 }
 
 func NewConnectionPostgres(cfg *config.Config) (storage.StorageI, error) {
@@ -53,4 +56,29 @@ func (s *Store) Product() storage.ProductRepoI {
 	}
 
 	return s.product
+}
+func (s *Store) Remaining() storage.RemainingRepoI {
+
+	if s.remaining == nil {
+		s.remaining = NewRemainingRepo(s.db)
+	}
+
+	return s.remaining
+}
+func (s *Store) Branch() storage.BranchRepoI {
+
+	if s.branch == nil {
+		s.branch = NewBranchRepo(s.db)
+	}
+
+	return s.branch
+}
+
+func (s *Store) Coming() storage.ComingRepoI {
+
+	if s.coming == nil {
+		s.coming = NewComingRepo(s.db)
+	}
+
+	return s.coming
 }
