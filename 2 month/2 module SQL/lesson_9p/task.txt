@@ -1,0 +1,10 @@
+1. https://leetcode.com/problems/employees-earning-more-than-their-managers/
+2. https://leetcode.com/problems/combine-two-tables/
+3. https://leetcode.com/problems/duplicate-emails/
+4. https://leetcode.com/problems/customers-who-never-order/
+5. https://leetcode.com/problems/delete-duplicate-emails/
+6. https://leetcode.com/problems/big-countries/
+7. https://leetcode.com/problems/classes-more-than-5-students
+8. https://leetcode.com/problems/employee-bonus/
+9. https://leetcode.com/problems/sales-person/
+10. https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/

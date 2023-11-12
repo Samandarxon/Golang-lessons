@@ -1,0 +1,614 @@
+[
+  {
+    "city": "cmDekuR.ru",
+    "clinic_id": "9d4d7ae0-b52f-4808-a441-6a8f51e4a0a5",
+    "logo": "O\"Hara",
+    "name": "Destin"
+  },
+  {
+    "city": "xJboBrK.com",
+    "clinic_id": "34e00e85-b192-422a-99fb-40084b3a174d",
+    "logo": "Abernathy",
+    "name": "Loyal"
+  },
+  {
+    "city": "hYuDMlc.com",
+    "clinic_id": "46d408e9-aee9-4a30-8360-47de68e24a4e",
+    "logo": "Gleichner",
+    "name": "Alena"
+  },
+  {
+    "city": "fHUWnyH.ru",
+    "clinic_id": "6e3e5fb3-cd59-4653-92ac-36d76d049a00",
+    "logo": "Kirlin",
+    "name": "Alverta"
+  },
+  {
+    "city": "oXqOfhF.org",
+    "clinic_id": "3a0524f8-a648-427d-8319-a0b13938c7eb",
+    "logo": "Waters",
+    "name": "Doug"
+  },
+  {
+    "city": "QvgBqmZ.info",
+    "clinic_id": "0b14930a-06dd-41c4-9ef6-96f3024017f9",
+    "logo": "Satterfield",
+    "name": "Elsa"
+  },
+  {
+    "city": "idGZNCU.org",
+    "clinic_id": "93b62dd4-4b78-41a2-a060-6a988d77abae",
+    "logo": "Purdy",
+    "name": "Cristal"
+  },
+  {
+    "city": "vfTVSAD.org",
+    "clinic_id": "16af2225-7067-4fc9-95a7-137b4303f5b3",
+    "logo": "Ritchie",
+    "name": "Lexie"
+  },
+  {
+    "city": "PfLatXG.biz",
+    "clinic_id": "06a7b626-66b8-45bf-a7c1-0c1afe4ec8ab",
+    "logo": "Green",
+    "name": "Beryl"
+  },
+  {
+    "city": "ucQgKNf.net",
+    "clinic_id": "e79405d5-1de8-482d-8473-03a99a2d46f0",
+    "logo": "Hane",
+    "name": "Willa"
+  },
+  {
+    "city": "SQManrJ.com",
+    "clinic_id": "a636c48c-a024-4a51-91fc-d04ecbe881fd",
+    "logo": "Parker",
+    "name": "Lemuel"
+  },
+  {
+    "city": "pvJpouC.org",
+    "clinic_id": "6ada39da-c788-403b-92d1-3a5c5afc7232",
+    "logo": "McGlynn",
+    "name": "Alejandra"
+  },
+  {
+    "city": "ttbWLac.org",
+    "clinic_id": "842e7ca8-0e27-4fe9-a97b-7dad8c3295d3",
+    "logo": "Kozey",
+    "name": "Emily"
+  },
+  {
+    "city": "yWCgEeG.net",
+    "clinic_id": "83ce119e-d814-4185-8166-6b42152539ab",
+    "logo": "Schimmel",
+    "name": "Jared"
+  },
+  {
+    "city": "TtuBQwC.com",
+    "clinic_id": "bd25e9ba-568b-470c-81cd-aa2c0bf65eec",
+    "logo": "Rolfson",
+    "name": "Imelda"
+  },
+  {
+    "city": "YgcwxIj.net",
+    "clinic_id": "ca9c340b-44a1-4264-9776-1e0d8eb55a70",
+    "logo": "Gerlach",
+    "name": "Jamie"
+  },
+  {
+    "city": "gIQspAC.biz",
+    "clinic_id": "4ac1c4cd-e5c0-49f5-9708-ee21f06383f8",
+    "logo": "Feil",
+    "name": "Nikolas"
+  },
+  {
+    "city": "nSkkKbg.ru",
+    "clinic_id": "961511e9-4c82-4ecc-aa1b-e08473bc64f8",
+    "logo": "Goodwin",
+    "name": "Laurianne"
+  },
+  {
+    "city": "wKwDUVY.ru",
+    "clinic_id": "0bd7527c-a483-4311-9723-be1dc2a69e36",
+    "logo": "Bednar",
+    "name": "Ansley"
+  },
+  {
+    "city": "rGFsGxp.com",
+    "clinic_id": "e9fbb14a-ff20-4127-a930-7de33bbab77d",
+    "logo": "Zboncak",
+    "name": "Derick"
+  },
+  {
+    "city": "fOaCZTh.org",
+    "clinic_id": "6a9ba30e-a4d5-4fcb-9b40-ece8aab050a6",
+    "logo": "Cremin",
+    "name": "Virginia"
+  },
+  {
+    "city": "ANHAkZB.com",
+    "clinic_id": "d4f871f1-99a0-4feb-bfb1-bf0fec47a672",
+    "logo": "Wilderman",
+    "name": "Libbie"
+  },
+  {
+    "city": "QwgvCIr.biz",
+    "clinic_id": "30ba69ce-f259-43d6-95d4-c247d5fbeaaf",
+    "logo": "Durgan",
+    "name": "Maudie"
+  },
+  {
+    "city": "tVnsjgH.biz",
+    "clinic_id": "2cce6ba5-f1e6-4f4e-828a-3616bab00c7d",
+    "logo": "Kautzer",
+    "name": "Jermaine"
+  },
+  {
+    "city": "ZvdYiaB.info",
+    "clinic_id": "01367a2d-c9a3-47b4-8ff7-ee390e7346d5",
+    "logo": "Price",
+    "name": "Penelope"
+  },
+  {
+    "city": "cXDWcYr.org",
+    "clinic_id": "46227c59-41c3-4772-af9f-4a5ae6a99178",
+    "logo": "Halvorson",
+    "name": "Glenna"
+  },
+  {
+    "city": "ZBhSRjU.net",
+    "clinic_id": "7fb2adb1-e36a-4a1a-abd7-72ba58686baa",
+    "logo": "Bailey",
+    "name": "Irving"
+  },
+  {
+    "city": "BZHFWtm.ru",
+    "clinic_id": "46d77dd8-58ff-4168-aca4-c45be1df88f2",
+    "logo": "Kulas",
+    "name": "Kaycee"
+  },
+  {
+    "city": "mplSMpC.ru",
+    "clinic_id": "5a6df08e-53c1-4a34-9eae-b8441255de52",
+    "logo": "Herman",
+    "name": "Theron"
+  },
+  {
+    "city": "ZuASrHp.net",
+    "clinic_id": "7d7153a1-5469-4613-ab27-9299132108e1",
+    "logo": "Larkin",
+    "name": "Ike"
+  },
+  {
+    "city": "JyRqBnq.biz",
+    "clinic_id": "858cb311-2d06-452b-bb6c-bfc563794bd1",
+    "logo": "Stiedemann",
+    "name": "Robin"
+  },
+  {
+    "city": "VPOmqBl.biz",
+    "clinic_id": "b5c68644-8ba7-4574-a749-1ba15a29ad25",
+    "logo": "Goldner",
+    "name": "Hilda"
+  },
+  {
+    "city": "QvOXkGN.ru",
+    "clinic_id": "2ee220a7-e1e3-4d84-a0f4-2f88add8a920",
+    "logo": "Corkery",
+    "name": "Abbie"
+  },
+  {
+    "city": "HBagMrk.net",
+    "clinic_id": "f81c2442-7848-4459-908f-8d66af669b79",
+    "logo": "Macejkovic",
+    "name": "Malachi"
+  },
+  {
+    "city": "ZFntEfY.com",
+    "clinic_id": "89245710-12c5-418b-972f-d58a71bcf6da",
+    "logo": "Wyman",
+    "name": "Andreane"
+  },
+  {
+    "city": "mvBOQpd.info",
+    "clinic_id": "007e6fd6-1da3-4951-b267-5da8fff74784",
+    "logo": "Hegmann",
+    "name": "Archibald"
+  },
+  {
+    "city": "tEttnLw.biz",
+    "clinic_id": "21eca827-8155-4034-b5b6-8579b082d09e",
+    "logo": "Reinger",
+    "name": "Aimee"
+  },
+  {
+    "city": "UiWyNla.org",
+    "clinic_id": "7d5f89f8-2f11-4b76-a47a-0a249aae3def",
+    "logo": "Deckow",
+    "name": "Maureen"
+  },
+  {
+    "city": "kMGSKDT.net",
+    "clinic_id": "dec81c0f-b850-4086-a975-026afb231d09",
+    "logo": "Marvin",
+    "name": "Allene"
+  },
+  {
+    "city": "DsrXiAR.ru",
+    "clinic_id": "659290cc-18f2-4189-bb86-bd19d5c34645",
+    "logo": "Roberts",
+    "name": "Jarrell"
+  },
+  {
+    "city": "PXECSXE.com",
+    "clinic_id": "5468b85d-c6f8-4b23-b488-a0eb8c92b455",
+    "logo": "Kertzmann",
+    "name": "Peyton"
+  },
+  {
+    "city": "mYsfUkX.net",
+    "clinic_id": "f623bd05-ee99-4d06-9825-b1852bf3752b",
+    "logo": "Heathcote",
+    "name": "Foster"
+  },
+  {
+    "city": "KAQZGns.ru",
+    "clinic_id": "768ea9f1-23bb-4f23-ba89-fb8bab4f99b9",
+    "logo": "Blanda",
+    "name": "Rigoberto"
+  },
+  {
+    "city": "qtyQOSN.info",
+    "clinic_id": "dad9ae3d-467e-4f24-bf09-ce7f019e4166",
+    "logo": "Treutel",
+    "name": "Cameron"
+  },
+  {
+    "city": "FPbJsZW.info",
+    "clinic_id": "28de76d4-4106-41c3-af0d-606c48694d73",
+    "logo": "Pfeffer",
+    "name": "Bart"
+  },
+  {
+    "city": "qxabKDX.org",
+    "clinic_id": "56eab54a-d137-485c-93e4-39ae68e3eea3",
+    "logo": "Smitham",
+    "name": "Wilma"
+  },
+  {
+    "city": "onbMSZm.ru",
+    "clinic_id": "52c550d2-2c4e-4db7-8830-be3c985fd345",
+    "logo": "Dare",
+    "name": "Creola"
+  },
+  {
+    "city": "lMOOfIW.org",
+    "clinic_id": "14cff29e-9ea9-484d-8c26-00222065dd76",
+    "logo": "Boyer",
+    "name": "Geo"
+  },
+  {
+    "city": "FjWxwIa.ru",
+    "clinic_id": "ab55e1b4-d4c6-4d52-8d2a-55735f42e605",
+    "logo": "Hyatt",
+    "name": "Jordy"
+  },
+  {
+    "city": "CbQJISI.net",
+    "clinic_id": "d4b147e8-4375-4e7f-b385-f648a7efa932",
+    "logo": "Becker",
+    "name": "Trinity"
+  },
+  {
+    "city": "KVDSvqN.ru",
+    "clinic_id": "131de4ba-55d7-454e-ab9b-172ec55abb3f",
+    "logo": "McGlynn",
+    "name": "Vita"
+  },
+  {
+    "city": "HijkUHF.biz",
+    "clinic_id": "a9ebef58-9cbc-4af5-8121-e8fbdd4ca08f",
+    "logo": "Bosco",
+    "name": "Anika"
+  },
+  {
+    "city": "JblEFhB.net",
+    "clinic_id": "7213ce0d-0bb5-4f4c-8cb1-e9006e1370b1",
+    "logo": "Leuschke",
+    "name": "Carroll"
+  },
+  {
+    "city": "jDEgiIl.ru",
+    "clinic_id": "17ab1c7a-5199-4a4d-921a-eede7ca6c23c",
+    "logo": "King",
+    "name": "Reuben"
+  },
+  {
+    "city": "rQmZkKa.ru",
+    "clinic_id": "71e18808-0745-469e-8192-80febff73766",
+    "logo": "Crona",
+    "name": "Valentine"
+  },
+  {
+    "city": "iGHPZyv.biz",
+    "clinic_id": "eea713d0-3fb2-4d11-ae4b-ad689c9d436a",
+    "logo": "Jones",
+    "name": "Randy"
+  },
+  {
+    "city": "PRCWpui.info",
+    "clinic_id": "91eb8fc5-6dbe-46af-9d4f-6b43ec0e9281",
+    "logo": "Morar",
+    "name": "Kurtis"
+  },
+  {
+    "city": "IYaCFMp.biz",
+    "clinic_id": "0ce36d37-6cb2-4076-acf3-8fb289941b45",
+    "logo": "Walsh",
+    "name": "Sherwood"
+  },
+  {
+    "city": "pNRPXOu.ru",
+    "clinic_id": "7248493e-0bdb-4824-82fe-df3d851971ea",
+    "logo": "Heidenreich",
+    "name": "Camille"
+  },
+  {
+    "city": "asaLRpI.biz",
+    "clinic_id": "7c73532b-72d4-48f6-a062-26959b25ed51",
+    "logo": "Hagenes",
+    "name": "Noemie"
+  },
+  {
+    "city": "MgEhgJW.biz",
+    "clinic_id": "52668df6-c6a6-4f82-b31b-50c3407ac43a",
+    "logo": "O\"Connell",
+    "name": "Yessenia"
+  },
+  {
+    "city": "ZVFIuih.biz",
+    "clinic_id": "ca351e89-e9b3-4f4f-8939-5ef0e81e9f93",
+    "logo": "Bednar",
+    "name": "Rosalind"
+  },
+  {
+    "city": "CWwWwid.org",
+    "clinic_id": "37467e8e-42d3-462b-a953-497e78cf91c9",
+    "logo": "Kunde",
+    "name": "Brady"
+  },
+  {
+    "city": "taHioPR.biz",
+    "clinic_id": "1f6448b0-5875-49a1-845e-7f5557a40672",
+    "logo": "Sipes",
+    "name": "Quinten"
+  },
+  {
+    "city": "cwfJTbJ.biz",
+    "clinic_id": "fd81ef1a-3e85-4fa4-8685-14da8fb9e4f8",
+    "logo": "Blanda",
+    "name": "Ezequiel"
+  },
+  {
+    "city": "COAeWtU.com",
+    "clinic_id": "5b6cc2d0-2d01-41b3-a598-3153bb12a48c",
+    "logo": "Dietrich",
+    "name": "Yasmine"
+  },
+  {
+    "city": "OPfhbPq.com",
+    "clinic_id": "58145d05-27dd-406b-bdac-4ef24d3bfbc1",
+    "logo": "Kulas",
+    "name": "Mackenzie"
+  },
+  {
+    "city": "cdwSyrl.net",
+    "clinic_id": "e9913de3-aa19-4111-ac1b-4b76d91d2c49",
+    "logo": "Jacobson",
+    "name": "Jermey"
+  },
+  {
+    "city": "iEagZsG.com",
+    "clinic_id": "afd731df-8b07-4a04-b199-ea3a3483f256",
+    "logo": "Bruen",
+    "name": "Dawn"
+  },
+  {
+    "city": "EgdxWGf.org",
+    "clinic_id": "b04ea475-6b1d-4df8-b358-4d62d11bda5d",
+    "logo": "Kris",
+    "name": "Juston"
+  },
+  {
+    "city": "sLFFiQI.net",
+    "clinic_id": "6130cb90-471e-4b95-907d-11fd5f8899f0",
+    "logo": "Cruickshank",
+    "name": "Kory"
+  },
+  {
+    "city": "AJWXurg.org",
+    "clinic_id": "b66a3fbb-d07c-4050-80e1-71b9c955ae7e",
+    "logo": "Wehner",
+    "name": "Deron"
+  },
+  {
+    "city": "WoxWJAm.net",
+    "clinic_id": "2cd6c724-c437-4453-9a45-b6ae05123ca6",
+    "logo": "Ondricka",
+    "name": "Blanca"
+  },
+  {
+    "city": "jQiVIjN.info",
+    "clinic_id": "996a5e4c-189f-4296-a564-0f612886897f",
+    "logo": "Schinner",
+    "name": "Minnie"
+  },
+  {
+    "city": "ygUgyni.com",
+    "clinic_id": "476a6307-eaea-4ab3-a9c8-22046e0168b0",
+    "logo": "Brekke",
+    "name": "Zaria"
+  },
+  {
+    "city": "MuBOZXF.ru",
+    "clinic_id": "adda2dbc-358a-4b72-a3d3-1a2e36555f3d",
+    "logo": "Welch",
+    "name": "Maxie"
+  },
+  {
+    "city": "qsDORga.net",
+    "clinic_id": "9c9319e0-62d3-4bec-a291-ca2a82fb6c26",
+    "logo": "Towne",
+    "name": "Randal"
+  },
+  {
+    "city": "uoJEGMj.biz",
+    "clinic_id": "3f35d5ad-6667-416d-b156-44541e11584c",
+    "logo": "Marvin",
+    "name": "Brice"
+  },
+  {
+    "city": "fTgjQmo.info",
+    "clinic_id": "cefacea8-e75e-4ffc-afb3-899a17041b14",
+    "logo": "Yost",
+    "name": "Damien"
+  },
+  {
+    "city": "pAYvKOi.org",
+    "clinic_id": "b8a9f290-e6b9-4a54-8ea1-4f37b602be82",
+    "logo": "Reinger",
+    "name": "Johann"
+  },
+  {
+    "city": "iPZCeJJ.info",
+    "clinic_id": "11be8f8f-0078-4cb0-b2e1-1ed128a1405b",
+    "logo": "Leffler",
+    "name": "Benedict"
+  },
+  {
+    "city": "OwPryFm.biz",
+    "clinic_id": "49814336-0ba5-4651-8d8a-b355eb916197",
+    "logo": "Hintz",
+    "name": "Arne"
+  },
+  {
+    "city": "GZWKUFb.biz",
+    "clinic_id": "3a5e4351-0471-4814-beea-01154b7bd9bb",
+    "logo": "Goyette",
+    "name": "Ryan"
+  },
+  {
+    "city": "OPUXuKX.biz",
+    "clinic_id": "2f016a15-50d9-4f8a-9d26-853bc7fba566",
+    "logo": "Stokes",
+    "name": "Abigale"
+  },
+  {
+    "city": "lSmSdDW.biz",
+    "clinic_id": "0808e919-e9b6-4c7e-add9-e405b4a7581b",
+    "logo": "Roberts",
+    "name": "Cristobal"
+  },
+  {
+    "city": "MAMGUiP.net",
+    "clinic_id": "8bb9d1ca-ad59-4615-ab59-52803e3c90e7",
+    "logo": "Dicki",
+    "name": "Bryon"
+  },
+  {
+    "city": "qqNZiqG.biz",
+    "clinic_id": "14da4902-bcd6-4535-8599-f701709b5c34",
+    "logo": "Ratke",
+    "name": "Valentin"
+  },
+  {
+    "city": "RfBNyUq.com",
+    "clinic_id": "d6cc0c6a-4207-4fbb-90cc-da6ce2b5e079",
+    "logo": "Ziemann",
+    "name": "Nayeli"
+  },
+  {
+    "city": "GojMCGr.net",
+    "clinic_id": "e27723f3-eafe-49a1-9475-815da945e02a",
+    "logo": "Jacobs",
+    "name": "Nichole"
+  },
+  {
+    "city": "WQJdoas.info",
+    "clinic_id": "6f5b237c-b035-4bb7-85b0-64d2a878a340",
+    "logo": "Hackett",
+    "name": "Pete"
+  },
+  {
+    "city": "WtZjGhH.org",
+    "clinic_id": "f8b16d2f-10c5-48f8-b491-44a41fc16f9c",
+    "logo": "Krajcik",
+    "name": "Rosetta"
+  },
+  {
+    "city": "VaZOZvR.info",
+    "clinic_id": "93d38d3a-8d90-4763-9a2a-f7268bbf06f2",
+    "logo": "Jacobson",
+    "name": "Eldridge"
+  },
+  {
+    "city": "qKZlhhO.ru",
+    "clinic_id": "ee54a358-6e3b-45b8-a4eb-9a04baf9e985",
+    "logo": "Murray",
+    "name": "Foster"
+  },
+  {
+    "city": "gyeYgQj.com",
+    "clinic_id": "ebc1fec3-b1ee-45ec-bced-581633a5e17c",
+    "logo": "Hessel",
+    "name": "Xio"
+  },
+  {
+    "city": "acBssdo.info",
+    "clinic_id": "8a5bae6b-da57-4689-a0ff-3a97f55d212b",
+    "logo": "Prohaska",
+    "name": "Alanna"
+  },
+  {
+    "city": "uVmVGUK.net",
+    "clinic_id": "feed14da-cefd-45ef-9f29-33561edfcdac",
+    "logo": "Bahringer",
+    "name": "Kaylah"
+  },
+  {
+    "city": "ktBUkSQ.ru",
+    "clinic_id": "24d23502-b3d0-43f7-9c5d-1d6fb3ae5d71",
+    "logo": "Brakus",
+    "name": "Jarrell"
+  },
+  {
+    "city": "MMqfAtB.biz",
+    "clinic_id": "58f76c92-107f-4ca1-8cb8-5eef89cab03c",
+    "logo": "Berge",
+    "name": "Roy"
+  },
+  {
+    "city": "vFOUxVX.biz",
+    "clinic_id": "f5c1f951-4e5b-426b-85ac-dc42e74aaee2",
+    "logo": "Schmitt",
+    "name": "Letitia"
+  },
+  {
+    "city": "rKCEoHM.ru",
+    "clinic_id": "d80a3057-9ddf-466d-b3d6-6720ec72e476",
+    "logo": "Windler",
+    "name": "Elissa"
+  },
+  {
+    "city": "havLNDR.com",
+    "clinic_id": "5cc5ee1a-1dee-40a7-afe9-d9142c7ae9fd",
+    "logo": "Hintz",
+    "name": "Damien"
+  },
+  {
+    "clinic_id": "3f8e01df-9db6-49c3-aaf7-7ed9474055e6",
+    "name": "Caden",
+    "logo": "Jenkins",
+    "city": "ROXYerT.biz"
+  }
+]

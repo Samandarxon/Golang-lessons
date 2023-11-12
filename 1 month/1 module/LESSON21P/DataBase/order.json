@@ -1,0 +1,20 @@
+[
+  {
+    "date_time": "1975-10-22",
+    "id": "2fe715fd-14f9-4fbb-b245-a399811838f2",
+    "product_id": "da42e499-ddfe-46c2-8951-27d7d9bf0e5b",
+    "status": "Active",
+    "sum": 200000,
+    "sum_count": 20,
+    "user_id": "25d812bb-4c8b-4aef-852e-efa8c475789a"
+  },
+  {
+    "id": "113c0de2-d40e-447a-b196-eb2963039b7e",
+    "user_id": "25d812bb-4c8b-4aef-852e-efa8c475789a",
+    "sum": 200000,
+    "sum_count": 20,
+    "date_time": "1979-10-20",
+    "status": "Active",
+    "product_id": "392e636a-5567-4f97-a4eb-b97c0437f7a9"
+  }
+]

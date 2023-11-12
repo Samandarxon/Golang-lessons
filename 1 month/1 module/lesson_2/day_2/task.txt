@@ -1,0 +1,20 @@
+
+1. 4567 nechchi xonaligini topish kerak
+
+2. Tub sonlar soni berilaid
+Son: 10
+2, 3, 5, 7, 11, 13, 17, 19, 23
+
+3. Factorial toping
+!5 = 1 * 2 * 3 * 4 * 5 = 120
+
+4. Raqamlar yigindisi
+12345 = 1 + 2 + 3 + 4 + 5 = 15
+749 = 7 + 4 + 9 = 20
+
+5. Palindrome toping
+4554
+"Palindrome"
+------
+4545
+"Not Palindrome"

@@ -1,0 +1,14 @@
+1. 10 User
+    -name
+    -age
+    -birthday
+
+users.ageFilter(10, 20)
+10 yoshdan 20 yoshgacha userlar ma'lumoti qaytishi kerak
+
+2. 
+    name: "asadbek"
+    name: "Asliddin"
+    name: "Shohruh"
+
+users.nameFilter("AS")

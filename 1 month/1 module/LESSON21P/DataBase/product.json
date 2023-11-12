@@ -1,0 +1,18 @@
+[
+  {
+    "category_id": "d30a4cbc-68f2-4b30-8d54-8a3bc0f7e581",
+    "discount": 74,
+    "discount_type": "V",
+    "id": "9e4351e3-d267-4d65-a869-ae7c889097ba",
+    "name": "Karson",
+    "price": 20630
+  },
+  {
+    "id": "152a7fcf-e82a-44da-9d91-748015fe344f",
+    "name": "Jackie",
+    "price": 17489,
+    "discount": 108,
+    "discount_type": "II",
+    "category_id": "d30a4cbc-68f2-4b30-8d54-8a3bc0f7e581"
+  }
+]

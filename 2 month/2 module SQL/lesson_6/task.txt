@@ -1,0 +1,147 @@
+WMS - Market -> Nodirbek, Ilyos
+-- Employee
+-- Category
+-- Product
+-- Coming
+    Datetime
+    Employee
+    Address
+    Status -> in_proccess, success
+    -- Coming_Product
+        Category
+        Product
+        Count
+        Price
+        Total Price
+
+-- Remaining
+    Category
+    Product
+    Count
+    Price
+    Total Price
+
+-- Sales
+    sale_id -> S-0000001
+    address
+    datetime
+    Total Sum
+    Total Count
+    -- Sales_Product
+        Category
+        Product
+        Count
+        Price
+        Total Price
+
+Rent Car -> Zafar, Baxodir
+
+--Investor
+    Percentage 70%
+--Model
+--Car
+    State Number
+    Model
+    Status -> booked, in_use, in_stock
+    Investor
+    Price
+--Company
+    Name
+--Client
+--Order
+    Order-Number -> 982347598
+    Start Date -> 2023-10-26 14:00
+    End Date -> 2023-10-30
+    Day -> 4
+    Paid -> 2 800 000
+    Total Price -> 2 800 000
+    Status -> new, client_took, client_returned, success
+    Car -> Malibu
+
+
+Travel -> Izzat, Fayzulloh, Ilgor
+
+-- Product
+    Airport
+    City
+    Country
+    Name
+    Working Time -- 08:00 -> 22:00
+-- Supplier
+    -- Supplier Product
+        Supplier Name
+        Airport
+        City
+        Country
+        Product Name
+        Refund Day -> 2
+
+-- Company
+    Airport Travel Company
+-- Agent
+    Company
+    First Name
+    Last Name
+-- Order
+    Order Id
+    Order Item Count
+    Status -> not_used, used, refund, partly_used, partly_refund
+    Created Day -> 2023-10-23 22:02:00
+    -- Order Item
+        Product -> HKG Launch
+        Order Item ID
+        Airport Name
+        City
+        Vaucher Link
+        Service Day -> 2023-11-05
+        Expired Day -> 2023-11-03
+        Status -> not_used, used, refund
+    -- Order Item
+        Product -> Tash Choyxona
+        Order Item ID
+        Airport Name
+        City
+        Vaucher Link
+        Service Day -> 2023-10-29
+        Expired Day -> 2023-10-28
+        Status -> not_used, used, refund
+
+
+Order       not_used     used    refund   party_used  partly_refund
+1. Item     not_used     used    refund   used        used
+2. Item     not_used     used    refund   not_used    refund
+
+
+
+LMS -> Javohir, Samandar
+
+Teacher
+Student
+Course
+Faculty
+Speciality
+Education Level -> Bakalvr
+Education Type -> Kechki
+Application
+
+
+
+
+WMS System
+https://www.consafelogistics.com/knowledge-center/blog/what-is-a-warehouse-management-system-wms/
+
+
+
+LMS System
+https://www.valamis.com/hub/what-is-an-lms
+
+
+
+CRM System
+https://sendpulse.com/support/glossary/crm
+
+
+
+
+ERP System
+https://habr.com/ru/articles/523120/

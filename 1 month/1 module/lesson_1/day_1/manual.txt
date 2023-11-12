@@ -1,0 +1,8 @@
+
+
+
+- go run hello.go
+- go doc fmt
+- gofmt hello.go
+- gofmt -w hello.go
+

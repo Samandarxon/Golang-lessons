@@ -1,0 +1,39 @@
+[
+    {
+        "male": {
+            "count": 10,
+            "users": [
+                "Giuseppe",
+                "Gertie",
+                "Rickert",
+                "Cybil",
+                "Benetta",
+                "Una",
+                "Jamie",
+                "Peadar",
+                "Darn",
+                "Phylys"
+            ]
+        }
+    },
+    {
+        "femail": {
+            "count": 13,
+            "users": [
+                "Lexy",
+                "Karel",
+                "Marv",
+                "Saleem",
+                "Melita",
+                "Gregorius",
+                "Calley",
+                "Jeanie",
+                "Yankee",
+                "Blair",
+                "Pavlov",
+                "Wendell",
+                "Carlo"
+            ]
+        }
+    }
+]

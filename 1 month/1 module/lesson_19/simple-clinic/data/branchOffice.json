@@ -1,0 +1,50 @@
+[
+  {
+    "branch_office_id": "5b9af49e-9e61-499e-9e93-69fa6d6fcbf1",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "671-109-8452"
+  },
+  {
+    "branch_office_id": "8bba3318-83da-4197-bd2d-b8374cbb13c3",
+    "clinic_id": "34d55ad5-705b-445d-b2ea-1f5963876eb4",
+    "addres": "Surxandaryo",
+    "phone": "871-102-4659"
+  },
+  {
+    "branch_office_id": "1006453d-1bea-4aa8-9231-4f66e163af72",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "829-316-7541"
+  },
+  {
+    "branch_office_id": "5df241cd-bc99-4d9d-9faf-c4ab012cb090",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "923-571-6104"
+  },
+  {
+    "branch_office_id": "3deb9286-1618-4bf5-8231-5dd0802b422f",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "941-067-5328"
+  },
+  {
+    "branch_office_id": "a1d8121b-5d31-4ae1-ba0c-e1e521e29781",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "218-573-6941"
+  },
+  {
+    "branch_office_id": "c8d92d80-be7b-40c2-8039-ac2e1bea531c",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "729-341-1085"
+  },
+  {
+    "branch_office_id": "ca45e8ed-8ae5-4d52-8f2a-84113df3bf52",
+    "clinic_id": "d69795c7-51b8-4212-97c4-76648a710047",
+    "addres": "Termiz",
+    "phone": "108-157-6942"
+  }
+]

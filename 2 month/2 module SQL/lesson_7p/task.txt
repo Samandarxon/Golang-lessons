@@ -1,0 +1,15 @@
+https://dbdiagram.io/d/65393630ffbf5169f0717d7a
+
+
+1. Most sold product
+2. Number of sold  products by each magazin
+3. Total sales by staff
+4. Sales by categories
+5. Sales by months (all sales in a month, 30 day)
+6. Customer Sale History (customer id is taken as argument)
+
+7. Staf with highest sales
+8. Product with no sales
+9. Top-selling category
+10. Top-selling category > 5;
+11. Average price of products in each category

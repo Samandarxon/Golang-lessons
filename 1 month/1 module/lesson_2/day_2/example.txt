@@ -1,0 +1,13 @@
+
+
+
+name = "Apple"
+
+sql
+fmt.Println(name) // Apple
+fmt.Println(Name) // Apple
+case - insensitive
+
+fmt.Println(name) // Apple
+fmt.Println(Name) // error
+case - sensitive

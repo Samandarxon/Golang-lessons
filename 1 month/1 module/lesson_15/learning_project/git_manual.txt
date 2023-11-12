@@ -1,0 +1,19 @@
+
+
+
+git init
+git status
+git add .            - all files
+git add main.go      - all one file
+git commit -m "add main file"
+git diff
+git restore file_name
+git log
+
+git clone git@github.com:asadbekGo/learning_project.git
+
+git remote add origin git@github.com:asadbekGo/learning_project.git
+
+git push --set-upstream origin main
+git push
+

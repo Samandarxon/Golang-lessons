@@ -1,0 +1,272 @@
+[
+    {
+       "Id": "2112c3da-bd10-4676-acef-6aaf5796a6d8",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "02e4a459-7f15-4051-acc4-adc1b5631fc5",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "9d7285cf-fd38-4a0b-af39-97b3fe8f6e48",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "5ee7cca6-eeef-4df0-af75-418f63b0e1a5",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "9a7ce8ce-6364-48ba-afec-d003eab50362",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "e679dd83-d253-4c1a-b9e3-ba653c6b0849",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "cdc6f0e6-9428-4ed1-a240-18c4390714b0",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "0dd3a133-5f28-4bb3-9ec3-4d2bdaa02b63",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "00fe5b9f-29a1-45bc-badb-4cf4456e6d12",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "b836746e-74e6-47a0-9076-a906f1ce01ee",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "a1debde3-6e07-4bb9-9c1c-2c8193a9887b",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "12969376-5c32-490b-9694-1d1c1266944d",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "98dc6e34-5d89-424a-8be3-ab7380c8565b",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "e86fb3a5-149e-465c-9907-f64fcd7b78cf",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "e662937a-7684-460c-b45d-4035c55bebea",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "36687193-15dd-4a79-80b5-aa7aa38a7d24",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "154a1817-d340-48b8-86b5-2364a6f149a5",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "6e1659ca-0e0b-43c2-9813-205ea2a27469",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "ce56836d-0c47-47c6-b3ee-83c6b15e5415",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "7ff94d23-0ebd-411d-8b8f-220f35c68f67",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "71272b3b-336b-41df-8492-e345b3b7ec27",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "edb110ba-39cd-40f0-b301-8b9f54d3d2fb",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "73c34f55-4d04-4180-8fe5-907cb942cd86",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "ed504194-2c87-4ca1-8d35-449d57cbaf8e",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "4c76f4c5-3cdd-4892-907f-fa503249e0d7",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "167889bb-b5e2-4990-b465-2bd03a739c5c",
+       "Name": "Apple",
+       "Price": 10000,
+       "Quantity": 10,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    },
+    {
+       "Id": "88ae9a50-9966-4dfe-955c-741a4052176c",
+       "Name": "Acer",
+       "Price": 3000,
+       "Quantity": 12,
+       "Category_id": "00000000-0000-0000-0000-000000000000",
+       "Category_Name": "",
+       "CreatedAt": "2023-10-10",
+       "UpdatedAt": "2023-10-10"
+    }
+ ]

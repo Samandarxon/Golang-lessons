@@ -1,0 +1,65 @@
+[
+  {
+    "branch_id": "9e8bf2de-9aca-42c6-80d6-9b8c027d7068",
+    "cashier_id": "dad42f4c-a6ed-4edb-8b38-a7963622046d",
+    "name": "Aubrey",
+    "phone": "924-715-8310",
+    "surname": "Okuneva"
+  },
+  {
+    "branch_id": "4491a0b1-3720-4d62-adc3-afa5e0faf040",
+    "cashier_id": "89b3f626-df74-40cb-9f58-5997735edd1c",
+    "name": "Dee",
+    "phone": "378-561-0941",
+    "surname": "Yost"
+  },
+  {
+    "branch_id": "f90f55b2-611e-4597-bed2-14bc6b06b209",
+    "cashier_id": "b3e19412-faa4-4a10-9310-4c5350b47704",
+    "name": "Erika",
+    "phone": "976-851-0421",
+    "surname": "Littel"
+  },
+  {
+    "branch_id": "a379440b-4db2-42a7-b711-b20e79b6ba54",
+    "cashier_id": "2c447e69-1ee6-4700-a540-f63ab0ff998f",
+    "name": "Troy",
+    "phone": "718-593-6102",
+    "surname": "Batz"
+  },
+  {
+    "branch_id": "e547d521-b5d0-4988-8fae-382ea0e24d68",
+    "cashier_id": "6aa82588-274f-4c04-8c67-b72d450a78ad",
+    "name": "Devante",
+    "phone": "105-671-4239",
+    "surname": "Farrell"
+  },
+  {
+    "branch_id": "8bdc706b-1acb-4e6d-a71e-efea75b0e4fb",
+    "cashier_id": "ea571beb-dc34-44aa-a830-8cffa13a3228",
+    "name": "Sigmund",
+    "phone": "101-358-9274",
+    "surname": "Dach"
+  },
+  {
+    "branch_id": "6ccbee3d-a174-48fe-acfd-5482bccc537e",
+    "cashier_id": "3e8e1d37-ca45-4949-8fd1-45f5170d0df9",
+    "name": "Autumn",
+    "phone": "379-102-8641",
+    "surname": "Spencer"
+  },
+  {
+    "branch_id": "a8163369-28b2-426c-9fe3-95671417ed9e",
+    "cashier_id": "8c8fef63-4e45-4e48-8f01-3c91800c44bc",
+    "name": "Jaiden",
+    "phone": "436-109-8521",
+    "surname": "Daugherty"
+  },
+  {
+    "branch_id": "be928473-0fb6-45a7-8550-77ce7abaa159",
+    "cashier_id": "7b9ea78c-9a88-47a9-a4d9-54afbe035fe5",
+    "name": "Jared",
+    "phone": "371-062-1458",
+    "surname": "Kutch"
+  }
+]

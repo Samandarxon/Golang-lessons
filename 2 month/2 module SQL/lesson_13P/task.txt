@@ -1,0 +1,12 @@
+https://dbdiagram.io/d/Sql1-65393630ffbf5169f0717d7a
+1. Create Tables using this diagram
+2. When insert sale_products should be autofill sale columns total_amount = SUM, products_count
+3. When insert sale_payments column total_payment and should be autofill sale columns
+paid_total_amount = SUM(total_payment),
+cash = SUM(cash),
+uzcard = SUM(uzcard),
+humo = SUM(humo)
+
+
+
+https://docs.google.com/document/d/1aaAiTl_QzWV2hzO5an1HQihJiFdHCEkN8vBWCVqfqx4/edit

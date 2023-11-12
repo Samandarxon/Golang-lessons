@@ -1,0 +1,18 @@
+
+
+
+1. Total
+2. Minimum
+3. Average
+4. Counter
+    counter(numbers, 4) // 3
+
+5. Set
+    num := []int{ 1, 2, 2, 3, 1, 5, 8}
+    set(num) // [1, 2, 3, 5, 8]
+
+
+
+Homework
+1. Rune vs byte
+

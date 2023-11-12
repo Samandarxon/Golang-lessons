@@ -1,0 +1,62 @@
+1. Izzat
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-self-join/
+
+2. Zafar
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-union/
+
+3. Ilgor
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-having/
+
+4. Bahodir
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-case/
+
+5. Fayzulloh
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-like/
+
+6. Samandar
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-subquery/
+
+7. Nodirbek
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-between/
+
+8. Javohir
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-upsert/
+
+9. Ilyos
+https://www.postgresql.org/docs/current/functions-srf.html
+
+Homework
+1. Filmlarga qancha umumiy pul tushgan
+SUM() foydalansiz
+
+2. Filmlarga nechta customer kirgan
+
+3. Filmlarga kirgan customer lar city chiqazing
+    films  | city_names
+-----------+-------------
+    avatar | {Chungho, Hanoi, Rio Claro, Tashkent}
+
+4. payment_date pul tolangan kinolar nomini chiqazing va umumiy summa
+Masalan:
+payment_date | film_names          | total_amount
+-------------+---------------------+--------------
+  2007-02-16 | {avatar, jon uik3 } | 220.23
+
+5. Eng maximum customer kirgan film nomini chiqazing.
+
+6. Biron bir country ga tegishli customer lar royxatini chiqazing
+
+WHERE country = 'Japan'
+
+    country | customer_name
+------------+-------------
+      Japan | Patricia
+      Japan | Elizabeth
+      Japan | Carol
+      Japan | Ruth
+      Japan | Sharon
+      Japan | Michelle
+      Japan | Laura
+      Japan | Sarah
+      Japan | Kimberly
+      Japan | Deborah

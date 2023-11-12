@@ -1,0 +1,16 @@
+Homework
+
+1. 782838 sondan eng katta maximum raqamini toping
+
+2. 3839599 sondan boshidagi 2chi raqamini aniqlang
+
+3. 7789965 sonlar orasidagi juft raqamlarni yigindisini toping
+
+4. 38845995 sonlar orasidagi tub sonlar yigindisini toping
+
+5. Mukammal Sonni toping
+6 = 1 + 2 + 3
+M: limit = 100
+6 24 ....
+
+6. Piramida
