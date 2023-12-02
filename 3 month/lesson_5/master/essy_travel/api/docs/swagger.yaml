@@ -1,0 +1,204 @@
+definitions:
+  handler.Response:
+    properties:
+      data: {}
+      description:
+        type: string
+      status:
+        type: integer
+    type: object
+  models.City:
+    properties:
+      city_code:
+        type: string
+      country_id:
+        type: string
+      country_name:
+        type: string
+      created_at:
+        type: string
+      guid:
+        type: string
+      latitude:
+        type: string
+      longitude:
+        type: string
+      offset:
+        type: string
+      timezone_id:
+        type: string
+      title:
+        type: string
+      updated_at:
+        type: string
+    type: object
+  models.CreateCity:
+    properties:
+      city_code:
+        type: string
+      country_id:
+        type: string
+      country_name:
+        type: string
+      latitude:
+        type: string
+      longitude:
+        type: string
+      offset:
+        type: string
+      timezone_id:
+        type: string
+      title:
+        type: string
+    type: object
+  models.GetListCityResponse:
+    properties:
+      cities:
+        items:
+          $ref: '#/definitions/models.City'
+        type: array
+      count:
+        type: integer
+    type: object
+info:
+  contact: {}
+paths:
+  /city:
+    get:
+      consumes:
+      - application/json
+      description: Get List City
+      operationId: get_list_city
+      parameters:
+      - description: limit
+        in: query
+        name: limit
+        type: number
+      - description: offset
+        in: query
+        name: offset
+        type: number
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: GetListCityResponseBody
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  $ref: '#/definitions/models.GetListCityResponse'
+              type: object
+        "400":
+          description: Invalid Argument
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  type: string
+              type: object
+        "500":
+          description: Server Error
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  type: string
+              type: object
+      summary: Get List City
+      tags:
+      - City
+    post:
+      consumes:
+      - application/json
+      description: Create City
+      operationId: create_city
+      parameters:
+      - description: CreateCityRequestBody
+        in: body
+        name: object
+        required: true
+        schema:
+          $ref: '#/definitions/models.CreateCity'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: CityBody
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  $ref: '#/definitions/models.City'
+              type: object
+        "400":
+          description: Invalid Argument
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  type: string
+              type: object
+        "500":
+          description: Server Error
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  type: string
+              type: object
+      summary: Create City
+      tags:
+      - City
+  /city/{id}:
+    get:
+      consumes:
+      - application/json
+      description: Get By Id City
+      operationId: get_by_id_city
+      parameters:
+      - description: id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: GetListCityResponseBody
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  $ref: '#/definitions/models.City'
+              type: object
+        "400":
+          description: Invalid Argument
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  type: string
+              type: object
+        "500":
+          description: Server Error
+          schema:
+            allOf:
+            - $ref: '#/definitions/handler.Response'
+            - properties:
+                data:
+                  type: string
+              type: object
+      summary: Get By Id City
+      tags:
+      - City
+swagger: "2.0"
