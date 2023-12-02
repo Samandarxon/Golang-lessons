@@ -1,0 +1,53 @@
+nanosecond symbol - ns
+microsecond symbol - μs
+millisecond symbol - ms
+
+Homework
+
+1. 
+    Product
+        Name
+        Price
+
+    User - 200
+        Name
+        Price
+        Products <- 10 - 100
+
+
+    Cassir1(user) {
+        SUM(user.Product.Price)
+        ch <- totalSum
+    }
+
+    Cassir2(user) {
+        SUM(user.Product.Price)
+        ch <- totalSum
+    }
+
+
+    Calculate Time: 100min
+
+        
+2. Airport, City, Country CRUD
+
+3. Mock Json data postgres import
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************************
+Olinmaydigan fieldlar
+
+_id
+__v
+createdAt
+updatedAt

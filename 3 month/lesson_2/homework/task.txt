@@ -1,0 +1,16 @@
+Homework
+
+1. Valyuta Excel export shu oy boyicha
+https://cbu.uz/uz/arkhiv-kursov-valyut/json/all/2023-12-25/ - shu linkka noyabr oyidaga har bir kuniga tegishli valyutalarni olib excelga joylang.
+Har bir date excelga sheet bolib tushadi. 
+
+
+useful link:
+https://thats-it-code.com/golang/how-to-read-and-write-excel-files-in-golang/#golang-read-excel-files
+https://cbu.uz/uz/arkhiv-kursov-valyut/json/all/2023-12-25/
+
+2. Wait group mavzusini ozlashtirish
+Valyutalarni date boyicha requestni concurrency orqali va wait group dan foydalaning.
+
+useful link:
+https://www.youtube.com/watch?v=IVaq7BApx8I&pp=ygUWZ29sYW5nIGRvam8gd2FpdCBncm91cA%3D%3D
